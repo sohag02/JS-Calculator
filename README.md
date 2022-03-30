@@ -2,7 +2,7 @@
 
 This a simple calculator made in pure ***HTML, CSS, & JavaScript***
 
-## Preview it [here](sohag02.github.io/JS-Calculator/)
+### Preview it [here](sohag02.github.io/JS-Calculator/)
 
 ## Installation
 
